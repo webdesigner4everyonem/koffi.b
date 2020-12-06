@@ -97,7 +97,7 @@
       .content .principal #sub {
         margin-top: 10%;
         color: #41045e;
-        font-weight: 600;
+        font-weight: 400;
         font-size: 1em;
       }
       
@@ -164,10 +164,7 @@
         margin-top: 150px auto;
         
       }
-      
-      
-    
-      
+         
       
       #hrabout {
         -ms-flex-item-align: center;
@@ -175,9 +172,7 @@
             align-self: center;
         margin-left: auto;
       }
-      
-      
-      
+        
       
       @-webkit-keyframes separator-width {
         0% {
@@ -449,11 +444,7 @@
         border: 1px solid #9e5109;
       }
       /*# sourceMappingURL=style.css.map */
-      
-      
-      
-      
-    
+     
     .cube{
         margin-top: 90px;
         transform-style: preserve-3d;
@@ -490,9 +481,7 @@
     .cube img:nth-child(6){
         transform: rotateX(-90deg) translateZ(250px);
     }
-    
-    
-    
+   
     @keyframes loop{
         from{
             transform: rotateX(0deg) rotateY(0deg);
