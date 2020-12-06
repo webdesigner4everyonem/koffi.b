@@ -95,9 +95,9 @@
       }
       
       .content .principal #sub {
-        margin-top: 10%;
+        margin-top: 15%;
         color: #41045e;
-        font-weight: 400;
+        font-weight: 600;
         font-size: 1em;
       }
       
@@ -125,7 +125,7 @@
       
       .principal{
         left: 50%;
-        top: 15.5%;
+        top: 20%;
         transform: translate(-50%,-50%);
         position: absolute;
         letter-spacing: 1px;
